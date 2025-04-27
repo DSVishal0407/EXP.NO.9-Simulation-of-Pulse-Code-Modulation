@@ -86,7 +86,15 @@ plt.show()
 ```
 
 ## OUTPUT:
- ![image](https://github.com/user-attachments/assets/9488e83c-a5b3-4ee4-bb6b-c1c7117cc7b5)
+![PCM OUTPUT](https://github.com/user-attachments/assets/77bae5ba-d55a-42e6-8f71-b704bc6ec0dc)
+
 
 ## RESULT:
-To Simulate of PCM using Python was verified successfully.
+
+Two distinct analog signals (50Hz and 120Hz) are successfully generated and quantized.
+Their PCM representations are calculated and visualized.
+A time-division multiplexed PCM signal is constructed by interleaving PCM values from both signals.
+The output plots demonstrate:
+Clear quantization of both signals.
+Proper interleaving of PCM values for transmission in a multiplexed form.
+A visual representation of how TDM works with PCM for efficient digital signal transmission.
